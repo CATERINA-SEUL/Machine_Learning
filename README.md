@@ -1,3 +1,4 @@
 ## Coursera
 
-#### Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. by DeepLearning.AI
+### Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. 
+by DeepLearning.AI
