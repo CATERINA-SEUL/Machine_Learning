@@ -27,7 +27,7 @@ Table of contents
 
 ### Course 2
 
-#### Convolutional Neural Networks in TensorFlow
+#### Convolutional Neural Networks in TensorFlow - [Certificate](https://www.coursera.org/account/accomplishments/verify/LE7SBZS4NU22)
 
 Table of contents
 
