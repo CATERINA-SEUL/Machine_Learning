@@ -46,3 +46,29 @@ Table of contents
  - Week 4
     - Lesson Topic : Multiclass Classifications
     - Exercise : Multi-class classifier
+
+----
+
+### Course 3
+
+#### Natural Language Processing in TensorFlow
+
+Table of contents
+
+ - Week 1
+    - Lesson Topic : Sentiment in text
+    - Exercise : Explore the BBC news archive
+
+ - Week 2
+    - Lesson Topic : Word Embeddings
+    - Exercise : BBC news archive
+
+ - Week 3
+    - Lesson Topic : Sequence models
+    - Exercise : Exploring overfitting in NLP
+
+ - Week 4
+    - Lesson Topic : Sequence models and literature
+    - Exercise : Using LSTMs, see if you can write Shakespeare!
+
+
