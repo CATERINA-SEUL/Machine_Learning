@@ -1,7 +1,7 @@
 # Coursera 
 ## TensorFlow in Practice by. DeepLearning.AI
 
-### Course 1
+### [Course 1](https://github.com/CATERINA-SEUL/Machine_Learning/tree/master/Course1)
 
 #### Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning - [Certificate](https://www.coursera.org/account/accomplishments/verify/665UEEL64X6V)
 
@@ -25,7 +25,7 @@ Table of contents
    
 ----
 
-### Course 2
+### [Course 2](https://github.com/CATERINA-SEUL/Machine_Learning/tree/master/Course2)
 
 #### Convolutional Neural Networks in TensorFlow - [Certificate](https://www.coursera.org/account/accomplishments/verify/LE7SBZS4NU22)
 
@@ -49,9 +49,9 @@ Table of contents
 
 ----
 
-### Course 3
+### [Course 3](https://github.com/CATERINA-SEUL/Machine_Learning/tree/master/Course3)
 
-#### Natural Language Processing in TensorFlow
+#### Natural Language Processing in TensorFlow - [Certificate](https://www.coursera.org/account/accomplishments/verify/B2UPWGGCWNPX)
 
 Table of contents
 
@@ -71,4 +71,26 @@ Table of contents
     - Lesson Topic : Sequence models and literature
     - Exercise : Using LSTMs, see if you can write Shakespeare!
 
+---
 
+### Course 4
+
+#### Sequences, Time Series and Prediction
+
+Table of contents
+
+ - Week 1
+    - Lesson Topic : Sequences and Prediction
+    - Exercise : Create and predict synthetic data
+
+ - Week 2
+    - Lesson Topic : Deep Neural Networks for Time Series
+    - Exercise : Predict with a DNN
+
+ - Week 3
+    - Lesson Topic : Recurrent Neural Networks for Time Series
+    - Exercise : Mean Absolute Error
+
+ - Week 4
+    - Lesson Topic : Real-world time series data
+    - Exercise : Sunspots
