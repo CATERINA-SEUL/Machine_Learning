@@ -1,5 +1,5 @@
 # Coursera 
-## TensorFlow in Practice by. DeepLearning.AI
+## TensorFlow in Practice by. DeepLearning.AI - [CERTIFICATE](https://www.coursera.org/account/accomplishments/professional-cert/9A438V3H5GB5)
 
 ### [Course 1](https://github.com/CATERINA-SEUL/Machine_Learning/tree/master/Course1)
 
@@ -75,7 +75,7 @@ Table of contents
 
 ### Course 4
 
-#### Sequences, Time Series and Prediction
+#### Sequences, Time Series and Prediction - [Certificate](https://www.coursera.org/account/accomplishments/verify/VXNRT2RAEJG8)
 
 Table of contents
 
